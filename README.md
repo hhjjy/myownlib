@@ -5,7 +5,6 @@
 ## 触控屏幕按钮抽象化
 ### 使用说明
 定义一个 Button 对象：
-```
 Button 结构体定义
 ```
 typedef struct {
